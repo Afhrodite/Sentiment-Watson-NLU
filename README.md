@@ -54,7 +54,7 @@ Originally developed as part of the **IBM Developer Skills Network** labs, this 
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/sentiment-watson-nlu.git
+git clone https://github.com/Afhrodite/Sentiment-Watson-NLU.git
 cd sentiment-watson-nlu
 pip install -r requirements.txt
 ```
