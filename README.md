@@ -55,7 +55,7 @@ Originally developed as part of the **IBM Developer Skills Network** labs, this 
 ### Installation
 ```bash
 git clone https://github.com/Afhrodite/Sentiment-Watson-NLU.git
-cd sentiment-watson-nlu
+cd Sentiment-Watson-NLU
 pip install -r requirements.txt
 ```
 
@@ -73,10 +73,11 @@ API_URL=your_ibm_nlu_instance_url_here
 Run the Flask server with:
 
 ```bash
-python app.py
+python server.py
+```
 
 By default, the Flask server runs on http://localhost:5000.
-```
+
 
 ## API Endpoints
 
